@@ -14,5 +14,7 @@
         "psr-4": {
             "SocialiteProviders\\IFSP\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
