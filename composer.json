@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/ifsp",
+    "name": "douglasanpa/ifspoauth",
     "description": "IFSP OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
