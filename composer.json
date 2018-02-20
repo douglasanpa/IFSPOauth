@@ -8,6 +8,6 @@
         "email": "douglas@ifsp.edu.br"
     }],
     "require": {
-	"socialiteproviders/ifsp": "*",
+	"socialiteproviders/ifsp": "*"
     }
 }
